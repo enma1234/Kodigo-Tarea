@@ -1,0 +1,51 @@
+body{
+   background-color: rgba(0, 255, 170, 0.625);
+   background-image: url("img/imagenfondoweb.jpg");
+                  
+}
+
+p{
+   color: rgb(0, 255, 255);
+}
+
+table {
+    width: 100%;
+    border: 1px solid #000;
+ }
+ th, td {
+    width: 25%;
+    color: rgb(0, 157, 255);
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid rgb(13, 82, 230);
+    border-collapse: collapse;
+    padding: 0.3em;
+    caption-side: bottom;
+ }
+ caption {
+    padding: 0.3em;
+    color: #fff;
+     background: hwb(0 5% 5%);
+ }
+ th {
+    background: #eee;
+ }
+
+.boton {
+    background-color: #000;
+    font-size: 20px;
+    
+}
+
+form{
+   text-align: center;
+}
+
+button{
+   text-align: center;
+}
+
+h1{
+   color: aqua;
+   text-align: center;
+}
